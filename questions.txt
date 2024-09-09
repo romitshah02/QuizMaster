@@ -1,0 +1,139 @@
+1. What does CPU stand for?
+1) Central Process Unit
+2) Central Processing Unit
+3) Central Processor Unit
+4) Central Processing Utility
+2
+
+2. What does RAM stand for?
+1) Random Access Memory
+2) Read Access Memory
+3) Readable Access Memory
+4) Randomly Accessed Memory
+1
+
+3. What is the full form of WWW?
+1) World Wide Web
+2) World Wide Window
+3) World Width Web
+4) World Web Wide
+1
+
+4. Which language is used for web apps?
+1) Python
+2) PHP
+3) JavaScript
+4) All of the above
+4
+
+5. What does SQL stand for?
+1) Structured Query Language
+2) Sequential Query Language
+3) Structured Query Logic
+4) Simple Query Language
+1
+
+6. Which of the following is not a programming language?
+1) Python
+2) HTML
+3) Java
+4) C++
+2
+
+7. What does IP stand for in IP address?
+1) Internet Provider
+2) Internet Protocol
+3) Internet Process
+4) Internet Procedure
+2
+
+8. Which is the largest unit of storage?
+1) Kilobyte
+2) Megabyte
+3) Gigabyte
+4) Terabyte
+4
+
+9. What is the main function of an operating system?
+1) Manage applications
+2) Manage hardware
+3) Both 1 and 2
+4) Provide Internet access
+3
+
+10. What is the function of the ALU?
+1) Store data
+2) Perform arithmetic and logic operations
+3) Manage memory
+4) Control input/output
+2
+
+11. Which one is a web browser?
+1) Google
+2) Yahoo
+3) Facebook
+4) Mozilla Firefox
+4
+
+12. Which protocol is used to send emails?
+1) HTTP
+2) SMTP
+3) FTP
+4) TCP
+2
+
+13. What does URL stand for?
+1) Uniform Resource Locator
+2) Universal Resource Locator
+3) Uniform Resource Link
+4) Universal Resource Link
+1
+
+14. Which of the following is a storage device?
+1) Hard Disk
+2) Printer
+3) Monitor
+4) Keyboard
+1
+
+15. What does GUI stand for?
+1) Graphical User Interface
+2) Graphical User Internet
+3) General User Interface
+4) Graphical Universal Interface
+1
+
+16. Which one is not an input device?
+1) Mouse
+2) Keyboard
+3) Monitor
+4) Scanner
+3
+
+17. Which one is a text editor for programming?
+1) Microsoft Word
+2) Adobe Reader
+3) Notepad++
+4) Photoshop
+3
+
+18. What is the name of the first computer?
+1) ENIAC
+2) UNIVAC
+3) Mark I
+4) Colossus
+1
+
+19. Which of the following is a database management system?
+1) MySQL
+2) Oracle
+3) SQL Server
+4) All of the above
+4
+
+20. What does OS stand for?
+1) Order System
+2) Open Software
+3) Operating System
+4) Operator System
+3
